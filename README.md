@@ -1,0 +1,2 @@
+# ArrayStructSwift
+![Screenshot](as.png)
